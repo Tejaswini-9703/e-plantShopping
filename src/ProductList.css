@@ -73,9 +73,9 @@ body {
     max-width: calc(26.33% - 20px); /* Adjust max-width for 3 cards per row with 20px gap */
     margin-bottom: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #bcd9a2;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 12px;
     text-align: center;
     position: relative;
     
